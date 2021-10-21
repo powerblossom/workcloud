@@ -1,0 +1,12 @@
+*.pyc
+secrets.json
+config.json
+.DS_Store
+.coverage
+coverage.xml
+
+/frontend/upload
+/upload/
+/.tox/
+/*.egg-info/
+
